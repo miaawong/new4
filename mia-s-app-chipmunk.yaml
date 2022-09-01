@@ -10,7 +10,7 @@ data:
       </head>
       <body>
         Hello from KOTS.
-        <p>This is text from a user config value: 'mia@replicated.com' </p>
+        <p>This is text from a user config value: 'changing this' </p>
         </br>
         This is a hidden value:
         </br>
